@@ -9,4 +9,9 @@ The first experiment learns with Gibbs sampler the weights associated to Golden 
 
 The second experiment learns the time-dependant weights associated to movies according to their rankings in box-office between October 2019 and February 2020 in four countries (France, US, UK and Germany). As it take some time to be executed, the number of iterations is set to 1000, but it would be more appropriate to run at least 10000 iterations.
 
-Our report is in the report repository.
+Our personnal report is in the report repository.
+
+
+
+
+Authors : Armand Gissler/Raymond Zhang
